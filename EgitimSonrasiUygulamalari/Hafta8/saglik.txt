@@ -1,0 +1,6 @@
+kullanici_adi Ferhat Bayır
+kullanicinin yas, kilo, boy bilgisi 20, 58.0, 1.78
+kulanicinin vucut kitle indeksi 18.3
+deger araligi zayıf
+oluşturma tarihi: Wed Apr 19 21:43:59 2023
+********************
