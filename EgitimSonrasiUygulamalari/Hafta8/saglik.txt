@@ -4,3 +4,9 @@ kulanicinin vucut kitle indeksi 18.3
 deger araligi zayıf
 oluşturma tarihi: Wed Apr 19 21:43:59 2023
 ********************
+kullanici_adi ferhat bayır
+kullanicinin yas, kilo, boy bilgisi 22, 65.0, 1.2
+kulanicinin vucut kitle indeksi 45.1
+deger araligi Morbid Obez
+oluşturma tarihi: Wed Apr 19 23:22:39 2023
+********************
